@@ -1,0 +1,12 @@
+{
+  "name": "Remix Remix Smart Waterlogging Reporting System",
+  "description": "A municipal-citizen platform for reporting, tracking, and resolving urban waterlogging and drainage problems with QR code access and geolocation.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
